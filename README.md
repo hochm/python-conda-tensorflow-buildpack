@@ -1,6 +1,6 @@
-# Python Conda Buildpack
+# Python Conda Tensorflow Buildpack
 
-The `python-conda-buildpack` is a [Cloud Foundry][] buildpack which uses [Continuum's conda][] for package management.
+The `python-conda-tensorflow-buildpack` is a [Cloud Foundry][] buildpack which uses [Continuum's conda][] and [Tensorflow][] for package management.
 
 
 ## Usage
